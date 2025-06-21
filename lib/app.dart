@@ -24,7 +24,7 @@ class PanfiloApp extends StatelessWidget {
             '/': (context) => const HomeView(),
             '/settings': (context) => const SettingsView(),
             // '/notes': (context) => const NotesView(),
-            // '/alarms': (context) => const AlarmsView(),
+            '/alarms': (context) => const AlarmsView(),
           },
         );
       },
