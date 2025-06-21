@@ -1,16 +1,33 @@
-# panfilo
+# 🧠 Pánfilo – Asistente Virtual Personal
 
-A new Flutter project.
+**Pánfilo** es un asistente virtual personal para Android, desarrollado en **Flutter**, pensado para ayudarte con tareas básicas cotidianas de forma rápida, práctica y desde tu dispositivo móvil.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades actuales
 
-A few resources to get you started if this is your first Flutter project:
+- 🕒 **Consultar el horario actual**
+- 📝 **Guardar y gestionar notas**
+- 📲 **Abrir aplicaciones instaladas**
+- ⏰ **Registrar y gestionar alarmas**
+- 🗣️ **Responder mediante voz** (modo asistente real)
+- 🎨 **Cambio entre tema claro y oscuro** en la interfaz
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologías utilizadas
+
+- [Flutter](https://flutter.dev/) – UI multiplataforma
+- [Dart](https://dart.dev/) – Lenguaje de programación principal
+- [SharedPreferences](https://pub.dev/packages/shared_preferences) – Para guardar configuraciones del usuario
+- [Text-to-Speech](https://pub.dev/packages/flutter_tts) – Para respuestas por voz
+
+---
+
+## 📦 Instalación local
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/solorzdev/panfilo.git
+cd panfilo
